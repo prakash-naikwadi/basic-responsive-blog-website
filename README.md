@@ -72,7 +72,7 @@ Reference for a clear understanding of some topics.
 
 ## Acknowledgments
 
-- YouTube Tutorial - [FreeCodeCamp](https://www.youtube.com/watch?v=srvUrASNj0s&t=8130s&ab_channel=freeCodeCamp.org)
+- YouTube Tutorial - [FreeCodeCamp](https://www.youtube.com/watch?v=srvUrASNj0s&t=8130s&ab_channel=freeCodeCamp.org)  
 - YouTube Tutorial - [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
 - Website - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - FrontEnd Roadmap - [roadmap.sh](https://roadmap.sh/)
