@@ -17,7 +17,7 @@
 
 ## Overview
 
-### Screenshot
+### Screenshot : images are distorted please visit [Links](https://prakash-naikwadi.github.io/basic-responsive-blog-website/) for Live View
 
 ![Screenshot](/Screenshots/Home.png?raw=true "View Of Page")
 
