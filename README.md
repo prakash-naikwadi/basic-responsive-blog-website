@@ -1,6 +1,6 @@
 # Basic Responsive Blog Website
 
-- Live Site URL: [Live site URL](https://prakash-naikwadi.github.io/starting-to-think-responsively-project/)
+- Live Site URL: [Live site URL](https://prakash-naikwadi.github.io/basic-responsive-blog-website/)
 
 ## Table of contents
 
@@ -23,8 +23,8 @@
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/prakash-naikwadi/starting-to-think-responsively-project)
-- Live Site URL: [Live site URL](https://prakash-naikwadi.github.io/starting-to-think-responsively-project/)
+- Solution URL: [Solution URL](https://github.com/prakash-naikwadi/basic-responsive-blog-website)
+- Live Site URL: [Live site URL](https://prakash-naikwadi.github.io/basic-responsive-blog-website/)
 
 ## My process
 - Started Learning Responsive Web Design By Kevin Powell.
